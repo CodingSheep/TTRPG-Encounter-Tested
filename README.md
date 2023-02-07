@@ -1,11 +1,11 @@
-# TTRPG-Encounter-Tested v0.1
+# TTRPG-Encounter-Tester v0.1
 Encounter Tester for TTRPGs beyond looking at shortcuts such as Challenge Rating
 
 Currently being developed with D&D 5e rules in mind.
 
 ###TODO:
  - Character / Monster Stat Block formatting
- - Simple Combat (Melee, Ranged, Cantrip)
+ - Simple Combat (Melee, Ranged)
  
 ###Needs Research:
  - Grid-based movement
