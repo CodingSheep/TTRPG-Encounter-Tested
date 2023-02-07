@@ -3,12 +3,12 @@ Encounter Tester for TTRPGs beyond looking at shortcuts such as Challenge Rating
 
 Currently being developed with D&D 5e rules in mind.
 
-###TODO:
+### TODO:
  - Character / Monster Stat Block formatting
  - Simple Combat (Melee, Ranged)
  - Damage Types
  
-###Needs Research:
+### Needs Research:
  - Grid-based movement
   - Affects Possible Actions
   - Affects Area of Effect
