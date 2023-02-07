@@ -6,6 +6,7 @@ Currently being developed with D&D 5e rules in mind.
 ###TODO:
  - Character / Monster Stat Block formatting
  - Simple Combat (Melee, Ranged)
+ - Damage Types
  
 ###Needs Research:
  - Grid-based movement
