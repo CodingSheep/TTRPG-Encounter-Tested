@@ -1,14 +1,16 @@
 # TTRPG-Encounter-Tester v0.1
 Encounter Tester for TTRPGs beyond looking at shortcuts such as Challenge Rating
 
-Currently being developed with D&D 5e rules in mind.
+Currently being ~~developed~~ researched with D&D 5e rules in mind.
 
-### TODO:
+This is a personal project that might not get off the ground due to a combination of circumstances as well as if such a project would take much longer than I would like to devote time to currently.
+
+### TODO / Research:
  - Character / Monster Stat Block formatting
  - Simple Combat (Melee, Ranged)
  - Damage Types
  
-### Needs Research:
+### Later Research:
  - Grid-based movement
   - Affects Possible Actions
   - Affects Area of Effect
